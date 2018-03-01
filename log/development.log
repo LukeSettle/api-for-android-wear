@@ -221,3 +221,8 @@ Processing by Api::V1::TestController#index as JSON
 Completed 200 OK in 0ms (Views: 0.1ms)
 
 
+Started GET "/api/v1/test" for 127.0.0.1 at 2018-03-01 10:34:34 -0500
+Processing by Api::V1::TestController#index as JSON
+Completed 200 OK in 1ms (Views: 0.1ms)
+
+

@@ -1,0 +1,4 @@
+DB_NAME: api_for_android_wear_db
+DB_USERNAME: lukesettle
+DB_PASSWORD: password
+DB_HOST: localhost
